@@ -1,14 +1,14 @@
 # Python-lambda-filter-map-reduce
 If you have trouble understanding or implementing lambda,filter,map or reduce. Do checkout this repository.<br>
-### 1.lambda functions - Also known as Anonymous function or function without a name.These function are return type functions.<br>
+1.lambda functions - Also known as Anonymous function or function without a name.These function are return type functions.<br>
                      They can be vey useful for writing short codes
 <br>
-#### 2.filter function - filter functions are used to filter out elements from an iterable for which the applied function returns True<br>
+2.filter function - filter functions are used to filter out elements from an iterable for which the applied function returns True<br>
 Filter takes two arguments: 1st is a Function & 2nd an iterable<br>
 <br>
-### 3.map function - map function is similar to filter function but can be used in case of multiple lists. if the lists are of same length<br>
+3.map function - map function is similar to filter function but can be used in case of multiple lists. if the lists are of same length<br>
 <br>
-### 4.reduce function - reduce function reduces a sequence of element to a single valueby processing the elements.<br>
+4.reduce function - reduce function reduces a sequence of element to a single valueby processing the elements.<br>
 <br>
 <br>
 WORKING OF MAP FUNCTION<br>
