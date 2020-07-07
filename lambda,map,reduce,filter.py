@@ -48,7 +48,7 @@ def ext_vwls(string):
 string='Python Filter Function'
 
 print(filter(ext_vwls,string))
-#solving above by lambda scroll to the end
+#To see the above code by lambda: Jump to the end
 
 #when you will run the aove code you will get something like this:
 # <filter object at 0x0000014CBB115580>
