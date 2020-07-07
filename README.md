@@ -1,5 +1,5 @@
 # Python-lambda-filter-map-reduce
-If you have trouble understanding or implementing lambda,filter,map or reduce. Do checkout this repository.<br>
+If you have trouble understanding or implementing lambda,filter,map or reduce. Do checkout this repository.<br><br>
 1.lambda functions - Also known as Anonymous function or function without a name.These function are return type functions.<br>
                      They can be vey useful for writing short codes<br>
 <br>
