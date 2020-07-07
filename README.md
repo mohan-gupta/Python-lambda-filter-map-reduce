@@ -1,5 +1,6 @@
 # Python-lambda-filter-map-reduce
 If you have trouble understanding or implementing lambda,filter,map or reduce. Do checkout this repository.<br><br>
+
 1.lambda functions - Also known as Anonymous function or function without a name.These function are return type functions.<br>
                      They can be vey useful for writing short codes<br>
 <br>
@@ -11,6 +12,8 @@ Filter takes two arguments: 1st is a Function & 2nd an iterable<br>
 4.reduce function - reduce function reduces a sequence of element to a single valueby processing the elements.<br>
 <br>
 <br>
+for codes and explanation check the python file<br>
+
 WORKING OF MAP FUNCTION<br>
 map(lambda x,y:x+y,a,b)<br>
 first let us understand the working of inner code then move to outer part<br>
